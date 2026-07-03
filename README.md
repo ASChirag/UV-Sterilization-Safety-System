@@ -1,3 +1,17 @@
+> **Safety-First UV-C Sterilization Chamber with Multi-Layer Protection Framework**
+
+The **Smart UV Sterilization Safety System** is a microcontroller-based enclosed UV-C sterilization chamber designed to safely disinfect everyday objects while preventing accidental human exposure. The system combines **human detection**, **door interlock verification**, **automatic door locking**, **relay-controlled UV activation**, **real-time monitoring**, and **emergency shutdown mechanisms** to ensure safe and reliable sterilization.
+
+<img src="images/image1.jpeg" alt="Prototype" width="850">
+<i><b>Prototype Demonstration</b> – Hardware implementation of the Smart UV Sterilization Safety System prototype.</i>
+
+![Domain](https://img.shields.io/badge/Domain-Biosafety-red)
+![Project](https://img.shields.io/badge/Project-Smart%20Sterilization-orange)
+
+- ☢️ Relay-Controlled UV-C Sterilization
+- 🛑 Automatic Emergency Shutdown
+- 💡 Real-Time Status Indication using LEDs
+
 ---
 
 # 🏛️ System Hardware Architecture
