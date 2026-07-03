@@ -8,8 +8,13 @@ The **Smart UV Sterilization Safety System** is a microcontroller-based enclosed
 ![Domain](https://img.shields.io/badge/Domain-Biosafety-red)
 ![Project](https://img.shields.io/badge/Project-Smart%20Sterilization-orange)
 
+- 👤 PIR-Based Human Detection
+- 🔔 Pre-Activation Warning Alert
+- 🤖 Automatic Servo Door Lock
 - ☢️ Relay-Controlled UV-C Sterilization
+- 📡 Continuous Safety Monitoring
 - 🛑 Automatic Emergency Shutdown
+- ⏱️ Timer-Based Sterilization Cycle
 - 💡 Real-Time Status Indication using LEDs
 
 ---
